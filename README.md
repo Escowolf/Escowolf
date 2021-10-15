@@ -8,6 +8,6 @@
 - ⚡ Fun fact: ...
 
 ```html
-https://github-readme-stats.vercel.app/api?Escowolf=anuraghazra
+https://github-readme-stats.vercel.app/api?username=Escowolf
 ```
 
