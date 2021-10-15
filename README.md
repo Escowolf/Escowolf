@@ -1,6 +1,6 @@
-#Hey there :wave:
+# Hey there :wave:
 
-##I'm a librarian and totally love techs.
+## I'm a librarian and totally love techs.
 
 - :books: I'm currently working on university library.
 - :computer_mouse:  I’m currently learning Dspace, Folio, OpenAthens, Marc21 and others softwares or educational resources.
