@@ -6,3 +6,8 @@
 - :computer_mouse:  I’m currently learning Dspace, Folio, OpenAthens, Marc21 and others softwares or educational resources.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
+```html
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Escowolf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+```
+
