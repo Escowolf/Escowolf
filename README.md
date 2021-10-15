@@ -9,7 +9,6 @@ Master of Information Science, and student of systems analysis and development. 
 
 - ⚡ Fun fact: studying philosophy, especially the philosophy of language, was what sparked my interest in computing, logic, and development. 
 
-  ```apl
-  ! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = Escowolf & show_icons = true & theme = dark)
-  ```
-
+<div align=center>
+  <img height=180px src="https://github-readme-stats.vercel.app/api?username=Escowolf&show_icons=true&theme=dark">
+<div>
