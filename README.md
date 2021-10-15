@@ -10,4 +10,6 @@
 
 - ⚡ Fun fact: ...
 
-  https://github-readme-stats.vercel.app/api?username=Escowolf
+  ```
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escowolf)](https://github.com/anuraghazra/github-readme-stats)
+  ```
