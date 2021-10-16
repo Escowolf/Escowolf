@@ -19,7 +19,7 @@ Master of Information Science, and student of systems analysis and development. 
 <img style="padding:2px;" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
 <img style="padding:2px;" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
 </ul></div>
-<div id=container style="display:flex; justify-content:center; ">
+<div id=container align=center>
   <img height=180px src="https://github-readme-stats.vercel.app/api?username=Escowolf&show_icons=true&theme=dark">
 <div>
 
