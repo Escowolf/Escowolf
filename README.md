@@ -12,7 +12,7 @@ Master of Information Science, and student of systems analysis and development. 
 <ul>
 </div>
 <div id=languages> 
-<ul style="list-style-type:none; display:flex; justify-content:center; padding:5px; background-color:black">
+<ul style="list-style-type:none; display:flex; justify-content:center; padding:5px; margin:10px 10px 10px 10px; background-color:black">
 <img style="padding:2px;" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
 <img style="padding:2px;" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
 <img style="padding:2px;" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
