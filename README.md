@@ -1,5 +1,5 @@
 # Hey there 👋
-## I am a librarian, 
+## I am a librarian from Brazil, 
 
 Master of Information Science, and student of systems analysis and development. I'm passionate about technology.
 
