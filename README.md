@@ -9,7 +9,7 @@ Sou acadêmico de Análise e Desenvolvimento de Sistemas e estou em transição 
 * 🌍  I'm based in Fortaleza, Ceará
 * 🖥️  See my portfolio at [EscMeAnything](http://escmeanything.netlify.app/)
 * ✉️  You can contact me at [escosou@gmail.com](mailto:escosou@gmail.com)
-* 🧠  I'm learning Android Studio & Kotlin
+* 🧠  I'm learning Android Studio & Java
 * ⚡  Fun fact: studying philosophy, especially the philosophy of language, was what sparked my interest in computing, logic, and development.
 
 ### Skills
