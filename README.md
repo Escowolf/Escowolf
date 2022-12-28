@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend iniciante
 --------------------
 
-Sou acadêmico de Análise e Desenvolvimento de Sistemas e estou em transição de carreira. Tenho conhecimento e interesse na área de desenvolvimento fullstack, desde a criação do protótipo de interface até a conexão com banco de dados e API. Atuo como bibliotecário e tenho experiência em gerenciamento de recursos informacionais de bases de livros digitais, planejamento orçamentário e financeiro e análise de metadados.
+Tenho conhecimento e interesse na área de desenvolvimento fullstack, desde a criação do protótipo de interface até a conexão com banco de dados e API. Atuo como bibliotecário e tenho experiência em gerenciamento de recursos informacionais de bases de livros digitais, planejamento orçamentário e financeiro e análise de metadados.
 
 * 🌍  I'm based in Fortaleza, Ceará
 * 🖥️  See my portfolio at [EscMeAnything](http://escmeanything.netlify.app/)
