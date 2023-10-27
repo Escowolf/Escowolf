@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ezequiel Sousa
 ======================================================================================================================================
 
-Backend iniciante
+Sou fã de trabalhos de Backend e integrações :)
 --------------------
 
 Tenho conhecimento e interesse na área de desenvolvimento fullstack, desde a criação do protótipo de interface até a conexão com banco de dados e API. Atuo como bibliotecário e tenho experiência em gerenciamento de recursos informacionais de bases de livros digitais, planejamento orçamentário e financeiro e análise de metadados.
