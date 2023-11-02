@@ -6,11 +6,10 @@ Sou fã de trabalhos de Backend e integrações :)
 
 Tenho conhecimento e interesse na área de desenvolvimento fullstack, desde a criação do protótipo de interface até a conexão com banco de dados e API. Atuo como bibliotecário e tenho experiência em gerenciamento de recursos informacionais de bases de livros digitais, planejamento orçamentário e financeiro e análise de metadados.
 
-* 🌍  I'm based in Fortaleza, Ceará
-* 🖥️  See my portfolio at [EscMeAnything](http://escmeanything.netlify.app/)
-* ✉️  You can contact me at [escosou@gmail.com](mailto:escosou@gmail.com)
-* 🧠  I'm learning Android Studio & Java
-* ⚡  Fun fact: studying philosophy, especially the philosophy of language, was what sparked my interest in computing, logic, and development.
+* 🖥️  Portfolio [EscMeAnything](http://escmeanything.netlify.app/)
+* ✉️  Fala comigo! [escosou@gmail.com](mailto:escosou@gmail.com)
+* 🧠  Meu foco maior é desenvolvimento! Atualmente tenho mais projetos em java, mas me adapto fácil a qualquer ambiente de desenvolvimento.
+* ⚡  Fun fact: meu interesse por programação vem pelo desenvolvimento de soluções e recursos para minha área mãe (Educação).
 
 ### Skills
 
@@ -34,8 +33,4 @@ Tenho conhecimento e interesse na área de desenvolvimento fullstack, desde a cr
 <p align="left"> 
   <a href="https://discord.com/users/escwolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/escwolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/Escowolf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Escowolf&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
