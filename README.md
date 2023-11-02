@@ -32,8 +32,6 @@ Tenho conhecimento e interesse na área de desenvolvimento fullstack, desde a cr
 ### Socials
 
 <p align="left"> 
-  <a href="https://codepen.io/escowolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> 
-  <a href="https://codesandbox.io/u/escwolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> 
   <a href="https://www.dev.to/escowolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> 
   <a href="https://discord.com/users/escwolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Escowolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/escwolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
