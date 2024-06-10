@@ -5,5 +5,5 @@
 * More [EscMeAnything](http://escmeanything.netlify.app/)
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff5715&color:FFF)](https://www.linkedin.com/in/escwolf)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff5715&color:FFF)](https://www.instagram.com/escacervo/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5CE1E6&color:FFF)](https://www.linkedin.com/in/escwolf)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=5CE1E6&color:FFF)](https://www.instagram.com/escacervo/)
